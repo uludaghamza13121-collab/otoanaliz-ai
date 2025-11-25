@@ -1,0 +1,2 @@
+# otoanaliz-ai
+otoanaliz-ai
